@@ -1,2 +1,0 @@
-# nuttx
-rtos of nuttx
